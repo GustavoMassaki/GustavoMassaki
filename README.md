@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m @GustavoMassaki
-- 👨‍💻 I work in front-end field
+- 👨‍💻 I'm ux designer
 
 <div align="center">
   <a href="https://github.com/GustavoMassaki">
